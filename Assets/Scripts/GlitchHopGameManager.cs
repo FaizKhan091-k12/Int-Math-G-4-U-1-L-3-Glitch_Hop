@@ -350,10 +350,10 @@ public class GlitchHopGameManager : MonoBehaviour
                     RectTransform mainRT = mainTextTr.GetComponent<RectTransform>();
                     if (mainRT != null)
                     {
-                        mainRT.anchorMin = new Vector2(0.04f, 0.38f);
-                        mainRT.anchorMax = new Vector2(0.96f, 0.84f);
-                        mainRT.anchoredPosition = Vector2.zero;
-                        mainRT.sizeDelta = Vector2.zero;
+                        // mainRT.anchorMin = new Vector2(0.04f, 0.38f);
+                        // mainRT.anchorMax = new Vector2(0.96f, 0.84f);
+                        // mainRT.anchoredPosition = Vector2.zero;
+                        // mainRT.sizeDelta = Vector2.zero;
                     }
                     TextMeshProUGUI optTMP = mainTextTr.GetComponent<TextMeshProUGUI>();
                     if (optTMP != null)

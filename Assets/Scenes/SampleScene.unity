@@ -152,9 +152,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 503.1725, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &18708990
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '[ ACTION EXPLANATION ]'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -942,9 +942,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 584.08014, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &98116250
@@ -1282,9 +1282,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 381.8111, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &139720468
@@ -1649,7 +1649,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0.5
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -1693,7 +1693,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &194534701
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1845,7 +1845,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -14.799988, y: 0}
+  m_AnchoredPosition: {x: -14.800049, y: 0}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &218531613
@@ -2001,9 +2001,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 179.54211, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &259606859
@@ -2092,9 +2092,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 543.62634, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &272061056
@@ -2280,9 +2280,9 @@ RectTransform:
   - {fileID: 48525907}
   m_Father: {fileID: 580263417}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 436.25403, y: -117.6}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 275, y: 240}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &309673363
@@ -2686,9 +2686,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 705.4415, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &413252440
@@ -2869,9 +2869,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 786.3491, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &441379894
@@ -3188,10 +3188,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 309673362}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.04, y: 0.38}
-  m_AnchorMax: {x: 0.96, y: 0.84}
-  m_AnchoredPosition: {x: 0, y: -13.7921}
-  m_SizeDelta: {x: 0, y: -5.5168}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -26.5}
+  m_SizeDelta: {x: 275, y: 187}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &527954627
 CanvasRenderer:
@@ -3696,9 +3696,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 624.53394, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &568969469
@@ -3852,9 +3852,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 422.2649, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584967575
@@ -3948,9 +3948,9 @@ RectTransform:
   - {fileID: 1251719540}
   m_Father: {fileID: 580263417}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 733.7567, y: -117.6}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 275, y: 240}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &595760523
@@ -4242,9 +4242,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 98.63451, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &660702154
@@ -4333,9 +4333,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 58.180706, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &661962897
@@ -4424,9 +4424,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 260.4497, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &666534653
@@ -4515,9 +4515,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 745.8953, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &717347494
@@ -4839,9 +4839,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 219.99591, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &809900667
@@ -5099,7 +5099,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '[ ACTION EXPLANATION ]'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6288,10 +6288,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 595760522}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.04, y: 0.38}
-  m_AnchorMax: {x: 0.96, y: 0.84}
-  m_AnchoredPosition: {x: 0, y: -13.7921}
-  m_SizeDelta: {x: 0, y: -5.5168}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -26.5}
+  m_SizeDelta: {x: 275, y: 187}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1067699361
 CanvasRenderer:
@@ -6674,7 +6674,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '[ ACTION EXPLANATION ]'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6916,9 +6916,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 664.98773, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1277932040
@@ -7281,9 +7281,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 139.08832, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1421836032
@@ -7860,9 +7860,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 17.726902, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1644357163
@@ -8043,9 +8043,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 341.3573, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1651223935
@@ -8306,9 +8306,9 @@ RectTransform:
   - {fileID: 842278117}
   m_Father: {fileID: 580263417}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 138.75134, y: -117.6}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 275, y: 240}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1659469742
@@ -9043,8 +9043,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 5.802185, y: 0}
+  m_SizeDelta: {x: -11.6046, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1740655953
 MonoBehaviour:
@@ -9097,14 +9097,14 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 22
-  m_fontSizeBase: 22
+  m_fontSize: 26.5
+  m_fontSizeBase: 26.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -9183,9 +9183,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 300.9035, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1778787173
@@ -9348,10 +9348,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1659469741}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.04, y: 0.38}
-  m_AnchorMax: {x: 0.96, y: 0.84}
-  m_AnchoredPosition: {x: 0, y: -13.7921}
-  m_SizeDelta: {x: 0, y: -5.5168}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -22.5}
+  m_SizeDelta: {x: 275, y: 195}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1823838554
 CanvasRenderer:
@@ -9735,19 +9735,19 @@ MonoBehaviour:
   activityItems:
   - stageTitle: "Commutative Law \u2022 Stereo Balance"
     equipmentTag: STEREO STAGE CHANNELS
-    clueText: "* To balance the left and right stage speakers, the audio volume must
+    clueText: "To balance the left and right stage speakers, the audio volume must
       match perfectly. Reversing the channels using the commutative law will fix
       the sound. If the left channel is programmed as 15 \xD7 4 = 60, what missing
-      volume level will balance the right channel: 4 \xD7 __ = 60?"
-    equationDisplay: "Left: 15 \xD7 4 = 60   ->   Right: 4 \xD7 [ ? ] = 60"
+      volume level will balance the right channel: 4 \xD7 __ = 60?."
+    equationDisplay: "Left: 15 \xD7 4 = 60   |   Right: 4 \xD7 [ ? ] = 60"
     options:
     - 15
     - 4
     - 64
     optionSubtitles:
-    - "[REVERSE FACTOR \u2022 BALANCES 4 \xD7 15 = 60]"
-    - "[UNBALANCED \u2022 DUPLICATE FACTOR]"
-    - "[OVERLOAD \u2022 4 \xD7 64 \u2260 60]"
+    - 
+    - 
+    - 
     correctOptionIndex: 0
     voiceoverCorrect: Channels synced! The commutative law proves that swapping the
       order of our factors leaves the total track volume exactly the same.
@@ -9756,19 +9756,19 @@ MonoBehaviour:
     itemVisualSprite: {fileID: 21300000, guid: 5ea74370ddc72ca43869d08d15134f19, type: 3}
   - stageTitle: "Associative Law \u2022 Bass Sequencer"
     equipmentTag: 16-STEP BASS SEQUENCER
-    clueText: "* The bass sequencer is lagging because the code is too heavy. Use
-      the associative law to regroup these sound waves into a quick, friendly power
-      of 10 first: (18 \xD7 5) \xD7 2 = 18 \xD7 (5 \xD7 2). What simplified value
-      goes into the master loop? 18 \xD7 __"
+    clueText: "The bass sequencer is lagging because the code is too heavy. Use the
+      associative law to regroup these sound waves into a quick, friendly power of
+      10 first: (18 \xD7 5) \xD7 2 = 18 \xD7 (5 \xD7 2). What simplified value goes
+      into the master loop? 18 \xD7 __."
     equationDisplay: "(18 \xD7 5) \xD7 2 = 18 \xD7 (5 \xD7 2) = 18 \xD7 [ ? ]"
     options:
     - 10
     - 90
     - 25
     optionSubtitles:
-    - "[POWER OF 10 \u2022 5 \xD7 2 = 10 (FAST CALC)]"
-    - "[UNGROUPED \u2022 18 \xD7 5 WITHOUT REGROUP]"
-    - '[INVALID FACTOR]'
+    - 
+    - 
+    - 
     correctOptionIndex: 0
     voiceoverCorrect: Smooth bassline! Grouping five and two creates an instant ten,
       turning a complicated sound mix into a super easy mental calculation.
@@ -9777,18 +9777,18 @@ MonoBehaviour:
     itemVisualSprite: {fileID: 21300000, guid: df60c916765ce8640bf9e0fa00288a69, type: 3}
   - stageTitle: "Distributive Law \u2022 Beat Slicer"
     equipmentTag: 14-BEAT DIGITAL SAMPLER
-    clueText: "* A massive 14-beat sound sample is completely overloading the digital
+    clueText: "A massive 14-beat sound sample is completely overloading the digital
       track. Chop it down using the distributive law! Let's break 7 \xD7 14 into
-      two easier sub-loops: (7 \xD7 10) + (7 \xD7 __). What is the missing slice?"
+      two easier sub-loops: (7 \xD7 10) + (7 \xD7 __). What is the missing slice?."
     equationDisplay: "7 \xD7 14 = (7 \xD7 10) + (7 \xD7 [ ? ])"
     options:
     - 4
     - 14
     - 28
     optionSubtitles:
-    - "[REMAINING SLICE \u2022 14 - 10 = 4 BEATS]"
-    - "[UNDECOMPOSED \u2022 FULL 14 BEATS]"
-    - '[OVERLOADED DOUBLE SLICE]'
+    - 
+    - 
+    - 
     correctOptionIndex: 0
     voiceoverCorrect: Remix achieved! Decomposing fourteen into ten and four allows
       you to distribute the multiplication into two effortless steps.
@@ -9797,18 +9797,18 @@ MonoBehaviour:
     itemVisualSprite: {fileID: 21300000, guid: 494ab6caa59988346aaed7649c7eaaad, type: 3}
   - stageTitle: "Order of Operations \u2022 FX Pedal Chain"
     equipmentTag: EFFECTS PEDALBOARD CHAIN
-    clueText: "* The synthesizer\u2019s special effects pedal chain is glitching
-      out. To prevent a massive sound pop that could blow the speakers, which operation
-      must you process first in this command string? 45 + 12 \xF7 3 - 6"
-    equationDisplay: "45 + 12 \xF7 3 - 6   ->   Which operation FIRST?"
+    clueText: "The synthesizer\u2019s special effects pedal chain is glitching out.
+      To prevent a massive sound pop that could blow the speakers, which operation
+      must you process first in this command string? 45 + 12 \xF7 3 - 6."
+    equationDisplay: "45 + 12 \xF7 3 - 6   |   Which operation FIRST?"
     options:
     - "Division (12 \xF7 3)"
     - Addition (45 + 12)
     - Subtraction (3 - 6)
     optionSubtitles:
-    - "[HIGHEST PRIORITY \u2022 \xF7 COMES BEFORE + / -]"
-    - "[LOWER PRIORITY \u2022 CANNOT ADD FIRST]"
-    - "[LOWER PRIORITY \u2022 CANNOT SUBTRACT FIRST]"
+    - 
+    - 
+    - 
     correctOptionIndex: 0
     voiceoverCorrect: Perfect frequency! According to the strict rules of operation
       order, division always takes absolute priority over addition and subtraction.
@@ -9817,18 +9817,18 @@ MonoBehaviour:
     itemVisualSprite: {fileID: 21300000, guid: 31b3c4075bd8d284bb2b278becdfc236, type: 3}
   - stageTitle: "Master Calculation \u2022 Volume Slider"
     equipmentTag: MASTER VOLUME DJ CONSOLE
-    clueText: "* The master volume slider requires the absolute correct final value
+    clueText: "The master volume slider requires the absolute correct final value
       of this multi-operation audio sequence. Calculate carefully to drop the beat:
-      20 - 3 \xD7 4"
+      20 - 3 \xD7 4."
     equationDisplay: "20 - 3 \xD7 4 = [ ? ]"
     options:
     - 8
     - 68
     - 12
     optionSubtitles:
-    - "[DROP BEAT: 3 \xD7 4 = 12, THEN 20 - 12 = 8 dB]"
-    - "[ORDER ERROR: (20 - 3) \xD7 4]"
-    - "[INCOMPLETE: 3 \xD7 4 ONLY]"
+    - 
+    - 
+    - 
     correctOptionIndex: 0
     voiceoverCorrect: The beat just dropped perfectly! Multiplying three by four
       gives twelve, and subtracting twelve from twenty leaves a flawless volume level
@@ -9888,9 +9888,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 145657503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 462.7187, y: -112.70001}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 18, y: 35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1859962678
@@ -10431,13 +10431,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 21
-  m_fontSizeBase: 21
+  m_fontSize: 26.48
+  m_fontSizeBase: 26.48
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
